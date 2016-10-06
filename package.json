@@ -13,7 +13,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-
   "devDependencies": {
     "browser-sync": "^2.17.0",
     "browser-sync-webpack-plugin": "^1.1.3",
@@ -28,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/kospiotr/webix-playing/issues"
   },
-  "homepage": "https://github.com/kospiotr/webix-playing#readme"
+  "homepage": "https://github.com/kospiotr/webix-playing#readme",
+  "dependencies": {
+    "webix": "^4.0.0"
+  }
 }
