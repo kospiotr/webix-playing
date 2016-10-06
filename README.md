@@ -17,3 +17,7 @@ NodeJS
 ## DEMO
 
 [https://kospiotr.github.io/webix-playing/](https://kospiotr.github.io/webix-playing/)
+
+## Resources
+
+- [http://webix.com/skin-builder/](http://webix.com/skin-builder/)

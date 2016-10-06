@@ -4,7 +4,8 @@
   "description": "",
   "scripts": {
     "build": "webpack",
-    "start": "npm run build -- -w"
+    "start": "npm run build -- -w",
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,10 @@
     "copy-webpack-plugin": "^3.0.1",
     "css-loader": "^0.25.0",
     "file-loader": "^0.9.0",
+    "gh-pages": "^0.11.0",
+    "less": "^2.7.1",
+    "less-loader": "^2.2.3",
+    "string-replace-webpack-plugin": "0.0.3",
     "style-loader": "^0.13.1",
     "url-loader": "^0.5.7",
     "webpack": "2.1.0-beta.25"
