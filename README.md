@@ -21,3 +21,12 @@ NodeJS
 ## Resources
 
 - [http://webix.com/skin-builder/](http://webix.com/skin-builder/)
+
+## Notes
+
+- Dual licence allows for playing :-) and learning framework
+- Easy to customize theme
+- Plays very well with webpack :-)
+- Awesome widgets count, customization possibilities
+- Many examples, demos, very good documentation
+- Personally don't like global controller style
