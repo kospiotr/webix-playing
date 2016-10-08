@@ -30,3 +30,10 @@ NodeJS
 - Awesome widgets count, customization possibilities
 - Many examples, demos, very good documentation
 - Personally don't like global controller style
+
+## To check
+
+- Integration with Angular2 and typescript types quality
+- Routing
+- Controller to View binding alternative options
+- Splitting app
